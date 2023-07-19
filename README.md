@@ -1,7 +1,7 @@
 # Sarcasm_detection
 Sarcasm_detection
 Team Sarcasm: Brayan & Tahora 
-Goal: to research train and implement Deep Learning Model concern with the classification of sarcasms.
+Goal: to research train and implement Deep Learning Model concerned with the classification of individual sarcastic comments.
 process: balance the positive and negative classes, tokenizing, embeddings, padding, LSTM,train the DLM and predict 
 tool: python,
 google colab 
