@@ -1,10 +1,31 @@
 # Sarcasm_detection
 Sarcasm_detection
-Team Sarcasm: Brayan & Tahora 
-Goal: to research train and implement Deep Learning Model concerned with the classification of individual sarcastic comments.
-process: balance the positive and negative classes, tokenizing, embeddings, padding, LSTM,train the DLM and predict 
-tool: python,
-google colab 
+Team Sarcasm: Bryan & Tahora 
+Goal: To research train and implement Deep Learning Model concerned with the classification of individual sarcastic comments.
+Process: 
+Data Collection: Reddit dataset
+
+
+Preprocessing: Cleaning, Tokenizing, Stemming, Lemmatization
+
+
+Feature Engineering: Convert text data into numerical representations (word embedding, BERT embeddings.Extract additional features like sentiment scores.
+
+Model Selection:
+Transformer-based models
+
+Model Training:
+Split the data into training, validation and testing sets.
+Train the chosen model optimizing a suitable loss function (e.g binary cross-entropy)
+Tune hyperparameters using the validation set to improve model performance.
+
+Model Evaluation:
+Evaluate the trained model using metrics like accuracy, precision, recall and F1.
+
+Fine-tuning and Iteration
+
+
+Tools: Python and Google colab 
 
 
 
