@@ -8,14 +8,12 @@ Data Collection: Reddit dataset
 Introduction:
 The LSTM model is a powerful deep learning technique used for sentiment analysis, which involves predicting the sentiment (positive or negative) of textual data, such as comments or reviews.
 Model Architecture:
+
 Our LSTM model is designed to process text data efficiently and make accurate sentiment predictions.
 		The model consists of multiple layers:
 		Input Layer: Receives sequences of word indices representing preprocessed text data.
 		Embedding Layer: Maps the word indices to dense word vectors using pre-trained word embeddings.
-		Bidirectional LSTM Layer: Utilizes LSTM units in both forward and backward directions to capture context from both past and future words effectively.
-
-  
-		Global MaxPooling1D Layer: Extracts the most important features from the LSTM output sequence.
+		Bidirectional LSTM Layer: Utilizes LSTM units in both forward and backward directions to capture context from both past and future words effectively.Global MaxPooling1D Layer: Extracts the most important features from the LSTM output sequence.
 		Dense Layers with Dropout: Fully connected layers with ReLU activation and dropout regularization to prevent overfitting.
 		Output Layer: A single neuron with sigmoid activation for binary sentiment classification.
 
