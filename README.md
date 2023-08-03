@@ -1,6 +1,6 @@
 # Sarcasm_detection
 Title: Sarcasm Detection with Bi-directional LSTM Model
-Team Sarcasm: Bryan & Tahora 
+Bryan Dunleavy & Tahora Husaini
 Goal: To research train and implement Deep Learning Model concerned with the classification of individual sarcastic comments.
 Process: 
 Data Collection: Reddit dataset
