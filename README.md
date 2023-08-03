@@ -1,5 +1,5 @@
 # Sarcasm_detection
-Title: Sarcasm Detection with BiLSTM Model
+Title: Sarcasm Detection with Bi-directional LSTM Model
 Team Sarcasm: Bryan & Tahora 
 Goal: To research train and implement Deep Learning Model concerned with the classification of individual sarcastic comments.
 Process: 
